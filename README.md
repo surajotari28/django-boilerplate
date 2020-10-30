@@ -22,3 +22,6 @@ Now you can run the project with this command
 ```
 python manage.py runserver
 ```
+
+
+we aere learning to code
